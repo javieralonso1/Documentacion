@@ -27,7 +27,7 @@ Markdown: Sintaxis
 **Nota:** Este documento es una traducción del sitio oficial que está en Inglés
 [daringfireball : syntax][src].
 
-  [src]: http://daringfireball.net/projects/markdown/syntax
+
 
 
 * * *
